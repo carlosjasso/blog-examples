@@ -1,2 +1,3 @@
 # blog-examples
-Example files referenced on my blog posts
+
+This repo is used to host examples and snippets referenced in [my blog](https://blog.carlosjasso.dev). 
